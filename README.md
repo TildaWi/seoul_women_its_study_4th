@@ -2,9 +2,12 @@
 
 ---
 
-![01_표지](images/스터디_모집_포스터.webp)  
-![04_모집분야](images/모집분야.webp)  
-![05_주요일정](images/주요일정.webp)  
+<p align="center">
+  <img src="images/스터디_모집_포스터.webp" width="30%" />
+  <img src="images/모집분야.webp" width="30%" />
+  <img src="images/주요일정.webp" width="30%" />
+</p>
+ 
 
 ---
 
