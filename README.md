@@ -15,7 +15,6 @@
  ┣ 📁 personal_track/          개인 트랙 학습 기록 및 뱃지 인증
  ┃ ┣ 📁 skill_badges/          추천 학습 과정 및 뱃지 실습 기록
  ┃ ┣ 📁 completion_badges/     완료 과정 실습 기록
- ┃ ┗ 📄 README.md              개인 트랙 학습 설명서
  ┣ 📁 team_challenges/         팀 트랙 22개 주제 개인 도전 기록
  ┃ ┣ 📁 challenge_01/          [AI] 구글러 Gemini AI 연구소
  ┃ ┗ ...
