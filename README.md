@@ -14,7 +14,7 @@
 ## 📂 디렉토리 구조
 
 ```plaintext
-📁 seoul_women_its_study_4th/
+📁 seoul-women-its-study-4th/
  ┣ 📁 personal_track/          개인 트랙 학습 기록 및 뱃지 인증
  ┃ ┣ 📁 skill_badges/          추천 학습 과정 및 뱃지 실습 기록
  ┃ ┣ 📁 completion_badges/     완료 과정 실습 기록
